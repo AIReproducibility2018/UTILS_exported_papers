@@ -32,7 +32,7 @@ AND ( LIMIT-TO ( PUBYEAR , 2012 ) )
 With the reservation that Scopus may have changed their systems since 2017, the goal of the above formulation
 is to:
 - Exclude survey and review papers
-- Limit the document type to one of the follow Scopus document types
+- Limit the document type to one of the following Scopus document types
 - - conference papers
   - articles
   - articles in press
